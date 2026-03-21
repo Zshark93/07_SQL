@@ -52,4 +52,5 @@ A MySQL Installer 8.0.45 még elérhető, de a MySQL 8.1-es verziótól felfelé
 
 ## Telepítési útmutató
 
-[MySQL útmutató](https://www.youtube.com/watch?v=u96rVINbAUI&t)
+[MySQL útmutató](https://www.youtube.com/watch?v=jVzM23eBtco)
+
