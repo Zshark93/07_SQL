@@ -61,3 +61,33 @@ Listázd ki az összes különböző osztályt!
 - nincs raktáron
     
 - VAGY az áruk kisebb, mint 10 000
+
+# 4 feladat
+
+### 1.
+
+Szúrj be egy új könyvet a `konyvek` táblába.
+
+### 2.
+
+Módosítsd egy könyv műfaját.
+
+### 3.
+
+Módosítsd egy könyv oldalszámát.
+
+### 4.
+
+Töröld ki az egyik megadott könyvet.
+
+### 5.
+
+Szúrj be egy olyan könyvet, amelynél az oldalszám ismeretlen, ezért `NULL` értéket kap.
+
+### 6.
+
+Kérdezd le azokat a könyveket, amelyeknél az oldalszám hiányzik.
+
+### 7.
+
+Kérdezd le azokat a könyveket, amelyeknél az oldalszám meg van adva.
