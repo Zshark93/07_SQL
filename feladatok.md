@@ -65,29 +65,32 @@ Listázd ki az összes különböző osztályt!
 # 4 feladat
 
 ### 1.
-
-Szúrj be egy új könyvet a `konyvek` táblába.
+Szúrj be egy új könyvet a konyvek táblába az alábbi adatokkal:
+- Cím: Java programozás alapjai
+- Szerző: Kovacs Bela
+- Év: 2020
+- Műfaj: szakmai konyv
+- Oldalszám: 350
 
 ### 2.
-
-Módosítsd egy könyv műfaját.
+Módosítsd az Abigel műfaját regeny értékre.
 
 ### 3.
-
-Módosítsd egy könyv oldalszámát.
+Módosítsd az Esti Kornel oldalszámát 200-ra.
 
 ### 4.
-
-Töröld ki az egyik megadott könyvet.
+Töröld ki a konyvek táblából a Titokzatos tortenet című könyvet.
 
 ### 5.
-
-Szúrj be egy olyan könyvet, amelynél az oldalszám ismeretlen, ezért `NULL` értéket kap.
+Szúrj be egy új könyvet a konyvek táblába az alábbi adatokkal:
+- Cím: Elveszett kezirat
+- Szerző: Névtelen
+- Év: 2025
+- Műfaj: regeny
+- Oldalszám: NULL
 
 ### 6.
-
 Kérdezd le azokat a könyveket, amelyeknél az oldalszám hiányzik.
 
 ### 7.
-
 Kérdezd le azokat a könyveket, amelyeknél az oldalszám meg van adva.
